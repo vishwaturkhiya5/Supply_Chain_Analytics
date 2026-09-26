@@ -1,0 +1,296 @@
+{
+  "database": "data/processed/supply_chain.db",
+  "loaded_rows": 180519,
+  "query_result_files": [
+    {
+      "script": "01_data_quality.sql",
+      "query_number": 1,
+      "result_file": "outputs/sql_results/01_data_quality_q01.csv",
+      "rows": 1,
+      "columns": [
+        "total_records",
+        "distinct_order_items",
+        "distinct_orders",
+        "distinct_customers",
+        "distinct_products"
+      ]
+    },
+    {
+      "script": "01_data_quality.sql",
+      "query_number": 2,
+      "result_file": "outputs/sql_results/01_data_quality_q02.csv",
+      "rows": 0,
+      "columns": [
+        "order_item_id",
+        "duplicate_count"
+      ]
+    },
+    {
+      "script": "01_data_quality.sql",
+      "query_number": 3,
+      "result_file": "outputs/sql_results/01_data_quality_q03.csv",
+      "rows": 1,
+      "columns": [
+        "missing_order_item_id",
+        "missing_order_id",
+        "missing_order_date",
+        "missing_gross_sales",
+        "missing_profit",
+        "missing_delivery_status",
+        "missing_shipping_mode"
+      ]
+    },
+    {
+      "script": "01_data_quality.sql",
+      "query_number": 4,
+      "result_file": "outputs/sql_results/01_data_quality_q04.csv",
+      "rows": 1,
+      "columns": [
+        "negative_quantity_rows",
+        "negative_gross_sales_rows",
+        "invalid_discount_rate_rows",
+        "invalid_late_flag_rows",
+        "late_status_mismatches",
+        "shipping_before_order_rows"
+      ]
+    },
+    {
+      "script": "01_data_quality.sql",
+      "query_number": 5,
+      "result_file": "outputs/sql_results/01_data_quality_q05.csv",
+      "rows": 1,
+      "columns": [
+        "max_gross_sales_difference",
+        "max_net_sales_difference"
+      ]
+    },
+    {
+      "script": "01_data_quality.sql",
+      "query_number": 6,
+      "result_file": "outputs/sql_results/01_data_quality_q06.csv",
+      "rows": 0,
+      "columns": [
+        "order_id"
+      ]
+    },
+    {
+      "script": "02_kpi_analysis.sql",
+      "query_number": 1,
+      "result_file": "outputs/sql_results/02_kpi_analysis_q01.csv",
+      "rows": 1,
+      "columns": [
+        "total_records",
+        "total_orders",
+        "total_units",
+        "total_sales",
+        "net_sales",
+        "total_discount",
+        "total_profit",
+        "gross_aov",
+        "net_aov",
+        "profit_margin_pct",
+        "late_delivery_rate_row_pct"
+      ]
+    },
+    {
+      "script": "02_kpi_analysis.sql",
+      "query_number": 2,
+      "result_file": "outputs/sql_results/02_kpi_analysis_q02.csv",
+      "rows": 1,
+      "columns": [
+        "total_orders",
+        "late_orders",
+        "late_delivery_rate_order_pct",
+        "avg_actual_shipping_days",
+        "avg_scheduled_shipping_days",
+        "avg_shipping_variance_days"
+      ]
+    },
+    {
+      "script": "03_business_analysis.sql",
+      "query_number": 1,
+      "result_file": "outputs/sql_results/03_business_analysis_q01.csv",
+      "rows": 3,
+      "columns": [
+        "customer_segment",
+        "records",
+        "orders",
+        "units",
+        "gross_sales",
+        "net_sales",
+        "profit",
+        "profit_margin_pct",
+        "late_delivery_rate_pct"
+      ]
+    },
+    {
+      "script": "03_business_analysis.sql",
+      "query_number": 2,
+      "result_file": "outputs/sql_results/03_business_analysis_q02.csv",
+      "rows": 23,
+      "columns": [
+        "market",
+        "order_region",
+        "orders",
+        "gross_sales",
+        "profit",
+        "profit_margin_pct",
+        "late_delivery_rate_pct"
+      ]
+    },
+    {
+      "script": "03_business_analysis.sql",
+      "query_number": 3,
+      "result_file": "outputs/sql_results/03_business_analysis_q03.csv",
+      "rows": 527,
+      "columns": [
+        "order_country",
+        "order_state",
+        "orders",
+        "gross_sales",
+        "profit",
+        "sales_rank_in_country"
+      ]
+    },
+    {
+      "script": "03_business_analysis.sql",
+      "query_number": 4,
+      "result_file": "outputs/sql_results/03_business_analysis_q04.csv",
+      "rows": 4,
+      "columns": [
+        "shipping_mode",
+        "orders",
+        "gross_sales",
+        "profit",
+        "late_delivery_rate_pct",
+        "avg_actual_shipping_days",
+        "avg_scheduled_shipping_days",
+        "avg_variance_days"
+      ]
+    },
+    {
+      "script": "03_business_analysis.sql",
+      "query_number": 5,
+      "result_file": "outputs/sql_results/03_business_analysis_q05.csv",
+      "rows": 4,
+      "columns": [
+        "delivery_status",
+        "orders",
+        "order_share_pct",
+        "gross_sales",
+        "profit"
+      ]
+    },
+    {
+      "script": "03_business_analysis.sql",
+      "query_number": 6,
+      "result_file": "outputs/sql_results/03_business_analysis_q06.csv",
+      "rows": 50,
+      "columns": [
+        "category_name",
+        "orders",
+        "units",
+        "gross_sales",
+        "profit",
+        "profit_margin_pct",
+        "late_delivery_rate_pct"
+      ]
+    },
+    {
+      "script": "03_business_analysis.sql",
+      "query_number": 7,
+      "result_file": "outputs/sql_results/03_business_analysis_q07.csv",
+      "rows": 37,
+      "columns": [
+        "order_year_month",
+        "orders",
+        "units",
+        "gross_sales",
+        "profit",
+        "late_delivery_rate_pct"
+      ]
+    },
+    {
+      "script": "03_business_analysis.sql",
+      "query_number": 8,
+      "result_file": "outputs/sql_results/03_business_analysis_q08.csv",
+      "rows": 4,
+      "columns": [
+        "order_year",
+        "orders",
+        "gross_sales",
+        "profit",
+        "period_note"
+      ]
+    },
+    {
+      "script": "04_advanced_analysis.sql",
+      "query_number": 1,
+      "result_file": "outputs/sql_results/04_advanced_analysis_q01.csv",
+      "rows": 20,
+      "columns": [
+        "product_id",
+        "product_name",
+        "category_name",
+        "orders",
+        "units",
+        "gross_sales",
+        "profit",
+        "profit_margin_pct",
+        "sales_share_pct",
+        "sales_rank",
+        "profit_rank",
+        "bottom_profit_rank"
+      ]
+    },
+    {
+      "script": "04_advanced_analysis.sql",
+      "query_number": 2,
+      "result_file": "outputs/sql_results/04_advanced_analysis_q02.csv",
+      "rows": 37,
+      "columns": [
+        "order_year_month",
+        "gross_sales",
+        "profit",
+        "sales_yoy_pct",
+        "profit_yoy_pct"
+      ]
+    },
+    {
+      "script": "04_advanced_analysis.sql",
+      "query_number": 3,
+      "result_file": "outputs/sql_results/04_advanced_analysis_q03.csv",
+      "rows": 53,
+      "columns": [
+        "order_year",
+        "order_region",
+        "gross_sales",
+        "profit",
+        "annual_sales_share_pct",
+        "annual_region_rank"
+      ]
+    },
+    {
+      "script": "04_advanced_analysis.sql",
+      "query_number": 4,
+      "result_file": "outputs/sql_results/04_advanced_analysis_q04.csv",
+      "rows": 0,
+      "columns": [
+        "category_name",
+        "orders",
+        "gross_sales",
+        "profit",
+        "profit_margin_pct"
+      ]
+    }
+  ],
+  "headline_reconciliation": {
+    "total_records": true,
+    "total_orders": true,
+    "total_sales": true,
+    "total_profit": true,
+    "gross_aov": true,
+    "late_delivery_rate": true
+  },
+  "all_headline_checks_pass": true
+}

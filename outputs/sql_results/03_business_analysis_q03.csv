@@ -1,0 +1,528 @@
+order_country,order_state,orders,gross_sales,profit,sales_rank_in_country
+Afganistán,Kabul,49,29258.8,1810.13,1
+Afganistán,Herat,7,3652.89,660.83,2
+Afganistán,Kandahar,8,3278.57,-1681.83,3
+Afganistán,Nangarhar,9,2378.6,434.6,4
+Albania,Vlorë,4,2509.85,455.25,1
+Albania,Shkodër,4,2109.64,406.0,2
+Albania,Korçë,2,1729.85,266.9,3
+Albania,Elbasan,1,1349.9,345.47,4
+Albania,Durrës,2,599.89,187.16,5
+Alemania,Renania del Norte-Westfalia,1229,708890.26,53616.85,1
+Alemania,Berlín,373,222748.7,17899.76,2
+Alemania,Bavaria,323,199257.67,23623.72,3
+Alemania,Baden-Wurtemberg,292,165825.4,19532.53,4
+Alemania,Hamburgo,220,137038.1,16336.35,5
+Angola,Luanda,64,33251.91,-1393.05,1
+Angola,Huambo,17,9778.98,1230.48,2
+Angola,Benguela,9,5775.33,-949.98,3
+Angola,Bié,7,4880.27,831.02,4
+Angola,Namibe,2,1919.86,295.83,5
+Arabia Saudí,Riad,120,64373.34,5003.15,1
+Arabia Saudí,Meca,99,54165.93,1453.47,2
+Arabia Saudí,Medina,26,13788.41,3006.15,3
+Arabia Saudí,Tabuk,18,10637.68,-926.32,4
+Arabia Saudí,Ash Sharqiyah,14,7707.0,702.22,5
+Argelia,Alger,48,29174.46,1015.2,1
+Argelia,Orán,32,18583.64,2720.35,2
+Argelia,Annaba,16,9570.69,722.04,3
+Argelia,Djelfa,12,6576.05,1278.93,4
+Argelia,Constantina,11,6349.16,924.37,5
+Argentina,Buenos Aires,311,193330.24,23237.5,1
+Argentina,Santa Fe,79,44013.7,2506.71,2
+Argentina,Buenos Aires (provincia),61,34618.13,1950.45,3
+Argentina,Chaco,43,26502.12,1877.13,4
+Argentina,Mendoza,33,17060.07,2113.31,5
+Armenia,Lori,1,455.9,42.46,1
+Australia,Nueva Gales del Sur,1038,484567.08,51093.75,1
+Australia,Queensland,963,432825.04,40924.45,2
+Australia,Victoria,638,291933.24,24812.9,3
+Australia,Australia Occidental,453,181952.19,23518.17,4
+Australia,Australia del Sur,303,130134.24,11861.31,5
+Austria,Viena,376,222211.96,25937.88,1
+Austria,Alta Austria,39,21142.31,2981.84,2
+Austria,Carintia,33,19207.92,3035.22,3
+Austria,Tirol,25,15181.84,3314.56,4
+Austria,Salzburgo,14,9384.88,501.19,5
+Azerbaiyán,Baki,20,13369.54,610.68,1
+Bangladés,Daca,134,62104.59,6025.58,1
+Bangladés,Chittagong,39,19403.55,2201.46,2
+Bangladés,Khulna,17,6596.3,362.57,3
+Bangladés,Rajshahi,8,4152.54,907.08,4
+Bangladés,Sylhet,9,2429.2,465.38,5
+Barbados,San Miguel,42,23291.43,1997.61,1
+Baréin,Muharraq,1,529.89,150.22,1
+Belice,Distrito de Cayo,4,2494.81,-228.35,1
+Benín,Littoral,9,5550.36,-264.39,1
+Benín,Donga,4,2759.66,591.38,2
+Benín,Ouémé,5,2429.75,554.5,3
+Benín,Departamento Atlántico,3,1639.86,400.3,4
+Benín,Atakora,3,1505.82,244.04,5
+Bielorrusia,Grodno,27,16944.24,1835.39,1
+Bielorrusia,Gómel,19,12233.66,1450.67,2
+Bielorrusia,Brest,15,9133.8,198.35,3
+Bielorrusia,Vitsyebsk,7,2952.44,10.95,4
+Bolivia,Santa Cruz,18,10562.59,1198.25,1
+Bolivia,Chuquisaca,11,8801.14,1388.2,2
+Bolivia,La Paz,10,6577.26,1010.89,3
+Bolivia,El Beni,12,5999.46,-132.7,4
+Bolivia,Potosí,9,3789.69,-106.93,5
+Bosnia y Herzegovina,Federación de Bosnia y Herzegovina,16,8869.09,-327.38,1
+Botsuana,Sudeste,4,2859.64,600.27,1
+Brasil,São Paulo,683,399530.48,46751.84,1
+Brasil,Bahía,223,135078.81,15321.91,2
+Brasil,Minas Gerais,213,123507.95,14720.34,3
+Brasil,Santa Catarina,173,110190.14,15351.12,4
+Brasil,Rio Grande do Sul,147,90120.62,11276.96,5
+Bulgaria,Sofía-Ciudad,32,19273.38,3145.04,1
+Bulgaria,Plovdiv,8,5409.42,233.12,2
+Bulgaria,Varna,7,4107.66,-66.91,3
+Bulgaria,Burgas,3,2179.83,33.25,4
+Bulgaria,Sliven,3,1249.84,164.66,5
+Burkina Faso,Centro,3,1403.76,352.23,1
+Burundi,Buyumbura Mairie,1,299.95,77.75,1
+Bután,Chukha,2,769.6,208.67,1
+Bélgica,Amberes,78,37990.49,3171.9,1
+Bélgica,Flanders Oriental,41,28551.48,2303.83,2
+Bélgica,Henao,33,28018.37,3086.64,3
+Bélgica,Limburgo,40,26130.36,4511.93,4
+Bélgica,Namur,20,10981.0,-41.6,5
+Camboya,Nom Pen,66,27826.49,2975.08,1
+Camerún,Centro,37,21380.45,4699.88,1
+Camerún,Nord,17,8829.99,1109.93,2
+Camerún,Ouest,12,5879.37,56.41,3
+Camerún,Littoral,8,5689.45,932.33,4
+Camerún,Est,6,3464.65,538.82,5
+Canada,Ontario,162,96201.96,11539.88,1
+Canada,Quebec,44,25906.85,3625.83,2
+Canada,Alberta,36,25132.1,3748.32,3
+Canada,Columbia británica,38,23701.06,2952.04,4
+Canada,Saskatchewan,14,7087.06,852.34,5
+Chad,Mandoul,1,599.96,-272.71,1
+Chile,Santiago de Chile,145,84753.36,8023.73,1
+Chile,Bío-Bío,22,15895.14,1658.38,2
+Chile,Valparaíso,22,14373.6,497.24,3
+Chile,O'Higgins,21,11086.51,1335.11,4
+Chile,Antofagasta,7,5360.23,137.86,5
+China,Guangdong,392,172771.15,24270.87,1
+China,Shandong,186,84371.43,8869.01,2
+China,Jiangsu,180,82165.52,8092.71,3
+China,Heilongjiang,153,71148.86,6191.75,4
+China,Sichuan,138,69450.89,7652.95,5
+Chipre,Nicosia,4,2099.77,378.18,1
+Colombia,Bogotá,170,96613.54,11056.93,1
+Colombia,Antioquía,82,45347.72,4397.12,2
+Colombia,Atlántico,52,30159.03,5460.32,3
+Colombia,Norte de Santander,49,29751.4,5220.28,4
+Colombia,Santander,42,24456.17,2264.25,5
+Corea del Sur,Seúl,131,57804.09,7067.23,1
+Corea del Sur,Gyeonggi,37,19819.45,3117.18,2
+Corea del Sur,Daejeon,33,15557.94,1399.86,3
+Corea del Sur,Busan,21,8403.98,-154.83,4
+Corea del Sur,Gyeongsangnam,22,8215.5,1522.11,5
+Costa Rica,Guanacaste,11,5947.17,244.74,1
+Costa de Marfil,Lagunes,62,34825.51,3622.71,1
+Costa de Marfil,Vallée du Bandama,12,5516.23,1093.26,2
+Costa de Marfil,Fromager,4,3040.73,-137.34,3
+Costa de Marfil,Lacs,4,1935.8,303.12,4
+Costa de Marfil,Dix-Huit Montagnes,2,1439.8,335.52,5
+Croacia,Grad Zagreb,18,11914.9,1431.0,1
+Croacia,Split-Dalmacia,5,2749.77,334.61,2
+Croacia,Osjecko-Baranjska,1,1069.92,400.55,3
+Croacia,Zagrebacka,1,769.84,203.62,4
+Croacia,Primorje-Gorski Kotar,2,711.85,-100.83,5
+Cuba,Santiago de Cuba,269,159966.02,11326.13,1
+Cuba,Granma,116,67720.76,7793.88,2
+Cuba,Holguín,110,63745.76,5104.64,3
+Cuba,Pinar del Río,97,57500.37,3027.89,4
+Cuba,Las Tunas,96,57181.47,5958.66,5
+Dinamarca,Región Capital,62,35389.95,4932.94,1
+Dinamarca,Dinamarca Meridional,40,17656.56,-792.68,2
+Dinamarca,Jutlandia Central,4,2869.62,283.21,3
+Dinamarca,Selandia,4,2689.67,801.15,4
+Ecuador,Pichincha,48,28816.26,2365.4,1
+Ecuador,Guayas,30,18114.58,-51.34,2
+Ecuador,Azuay,12,7339.23,445.73,3
+Ecuador,Manabí,5,3629.71,295.14,4
+Ecuador,Los Ríos,2,1489.91,-260.22,5
+Egipto,El Cairo,201,118495.6,6319.71,1
+Egipto,Alejandría,90,54357.14,8306.85,2
+Egipto,Al Bahr al Ahmar,17,8983.84,1818.63,3
+Egipto,Menia,15,8592.9,849.62,4
+Egipto,Gharbia,14,6675.13,356.8,5
+El Salvador,San Salvador,1029,611867.65,58095.04,1
+El Salvador,Santa Ana,97,65749.51,8951.34,2
+El Salvador,Sonsonate,45,26963.12,4867.06,3
+El Salvador,Cuscatlán,37,23967.09,2474.12,4
+El Salvador,La Libertad,30,19172.83,2664.35,5
+Emiratos Árabes Unidos,Ras al-Jaima,8,4250.52,363.77,1
+Emiratos Árabes Unidos,Ajmán,3,1439.87,465.04,2
+Eritrea,Anseba,1,309.96,92.48,1
+Eslovaquia,Nitra,5,2389.72,206.52,1
+Eslovaquia,ilina,2,1449.93,37.7,2
+Eslovaquia,Banská Bystrica,1,899.85,343.68,3
+Eslovenia,Liubliana,3,1189.86,23.0,1
+España,Madrid,381,231242.92,31074.6,1
+España,Cataluña,238,141840.2,17142.54,2
+España,Andalucía,188,109574.28,4069.1,3
+España,Valenciana,167,98494.07,13808.01,4
+España,Castilla y León,109,63392.72,6861.94,5
+Estados Unidos,California,1653,984826.63,101563.16,1
+Estados Unidos,Nueva York,924,539369.15,58774.54,2
+Estados Unidos,Texas,824,484570.12,54664.95,3
+Estados Unidos,Pensilvania,474,276402.89,30424.0,4
+Estados Unidos,Washington,434,245119.26,22922.15,5
+Estonia,Harjumaa,9,5473.43,48.05,1
+Estonia,Tartu,1,129.99,12.61,2
+Etiopía,Dire Dawa,7,3859.44,446.41,1
+Filipinas,Capital Nacional,801,354335.42,41207.96,1
+Filipinas,Calabarzón,75,34240.08,3072.03,2
+Filipinas,Cordillera,21,10416.33,1351.5,3
+Filipinas,Visayas Occidental,29,9732.96,971.09,4
+Filipinas,Luzón Central,22,8647.9,848.78,5
+Finlandia,Uusimaa,89,52966.52,4824.18,1
+Finlandia,Finlandia del Sudoeste,16,6047.89,1088.25,2
+Finlandia,Kymenlaakso,4,2114.81,370.18,3
+Francia,Isla de Francia,1692,1013284.11,124945.77,1
+Francia,Provenza-Alpes-Costa Azul,682,391211.74,42222.31,2
+Francia,Languedoc-Rosellón-Mediodía-Pirineos,388,234866.82,24909.05,3
+Francia,Auvernia-Ródano-Alpes,377,215434.17,24924.87,4
+Francia,Norte-Paso de Calais-Picardía,335,197563.56,25027.29,5
+Gabón,Estuaire,12,9253.98,374.72,1
+Georgia,Tiflis,20,12262.69,2012.72,1
+Georgia,Imericia,10,6235.36,-844.78,2
+Ghana,Gran Accra,58,33598.06,4775.89,1
+Ghana,Ashanti,20,14058.27,1655.94,2
+Ghana,Septentrional,7,3886.65,336.73,3
+Ghana,Central,2,1519.89,-638.98,4
+Grecia,Attica,11,6605.52,207.43,1
+Guadalupe,Guadalupe,13,6394.27,625.01,1
+Guatemala,Guatemala,680,418330.86,39181.17,1
+Guatemala,Quezaltenango,70,46629.67,4730.34,2
+Guatemala,Escuintla,61,31175.11,1636.3,3
+Guatemala,Huehuetenango,49,28936.24,271.23,4
+Guatemala,Chimaltenango,44,25445.23,1511.84,5
+Guayana Francesa,Französisch-Guayana,3,1704.75,-231.88,1
+Guinea,Kankan,5,4539.21,925.51,1
+Guinea,Nzérékoré,6,3709.5,311.36,2
+Guinea,Kindia,2,1215.87,300.92,3
+Guinea Ecuatorial,Litoral,2,319.96,103.36,1
+Guinea-Bissau,Bisáu,9,5169.41,-1448.72,1
+Guyana,Demerara-Berbice Superior,6,4029.55,501.45,1
+Haití,Ouest,155,89838.84,10429.33,1
+Haití,Artibonito,19,10010.92,1318.76,2
+Honduras,Francisco Morazán,578,364129.98,40973.64,1
+Honduras,Cortés,377,231841.1,22589.76,2
+Honduras,Atlántida,104,65646.96,10950.35,3
+Honduras,Choluteca,65,40259.34,6292.79,4
+Honduras,Yoro,54,33082.28,4367.27,5
+Hong Kong,Hong Kong,37,14034.02,307.03,1
+Hungría,Budapest,44,29296.48,3993.32,1
+Hungría,Gy?r,6,4404.23,1270.95,2
+Hungría,Békés,2,1549.76,469.27,3
+Hungría,Hajdú-Bihar,2,779.97,24.77,4
+India,Maharashtra,393,188849.29,20798.79,1
+India,Uttar Pradesh,272,113253.25,12504.81,2
+India,Karnataka,171,70022.93,8651.66,3
+India,Tamil Nadu,157,67621.42,6718.61,4
+India,Rajastán,150,62679.44,8160.19,5
+Indonesia,Yakarta,469,205532.43,26414.9,1
+Indonesia,Java Occidental,368,164816.08,10092.19,2
+Indonesia,Java Oriental,267,116720.07,11834.0,3
+Indonesia,Sumatra Septentrional,183,78728.98,8306.06,4
+Indonesia,Java Central,139,62381.45,5936.0,5
+Irak,Bagdad,143,80553.21,7650.32,1
+Irak,Basora,62,38532.35,2717.24,2
+Irak,Nínive,37,25521.09,2723.66,3
+Irak,Arbil,35,24443.24,3233.74,4
+Irak,Babilonia,11,7059.38,842.67,5
+Irlanda,Dublín,139,90864.54,3290.98,1
+Irlanda,Cork,37,21247.84,2582.13,2
+Irlanda,Dublín del Sur,9,3700.88,477.03,3
+Irlanda,Galway,2,869.96,238.55,4
+Irán,Jorasán Razaví,78,41358.6,3523.19,1
+Irán,Fars,53,27761.9,4334.88,2
+Irán,Juzestán,44,27164.95,3241.59,3
+Irán,Qom,30,16365.03,2536.13,4
+Irán,Kermanshah,23,15913.37,4059.84,5
+Israel,Tel Aviv,36,22334.63,2860.08,1
+Israel,Jerusalén,25,12858.28,2065.09,2
+Israel,Haifa,16,11241.65,478.64,3
+Israel,Meridional,10,6559.3,1063.47,4
+Israel,Central,2,1029.9,-471.41,5
+Italia,Lacio,321,183437.6,25314.08,1
+Italia,Lombardía,262,140715.04,17548.96,2
+Italia,Emilia-Romaña,188,115053.48,8765.55,3
+Italia,Sicilia,175,101321.97,12553.8,4
+Italia,Campania,175,99249.28,10931.28,5
+Jamaica,Santa Caterina,54,33063.83,4995.31,1
+Japón,Tokio,92,35165.06,3476.52,1
+Japón,Osaka,32,13819.03,1730.77,2
+Japón,Kanagawa,22,11683.31,681.19,3
+Japón,Aichi,21,9895.0,836.52,4
+Japón,Hyogo,20,9338.14,36.48,5
+Jordania,Amán,34,18612.72,1296.23,1
+Jordania,Irbid,2,1393.89,-77.88,2
+Kazajistán,Karagandá,20,12867.41,1074.14,1
+Kazajistán,Astaná,17,9455.94,1549.87,2
+Kazajistán,Ciudad de Almatý,16,8674.0,410.72,3
+Kazajistán,Pavlodar,15,8017.74,818.83,4
+Kazajistán,Kostanái,7,5424.38,238.01,5
+Kenia,Nairobi,38,24496.18,2707.68,1
+Kenia,Costa,21,13569.53,1438.63,2
+Kenia,Gran Valle del Rift,9,5967.42,68.47,3
+Kenia,Nyanza,9,4111.57,-1079.72,4
+Kenia,Central,4,2167.82,607.22,5
+Kirguistán,Bishkek,31,16831.33,2745.87,1
+Kirguistán,Osh,3,2159.87,401.93,2
+Kuwait,Al Asimah,1,334.96,133.83,1
+Laos,Prefectura de Vientián,3,683.01,84.09,1
+Lesoto,Maseru,6,3149.62,484.53,1
+Liberia,Montserrado,11,6174.31,-12.05,1
+Liberia,Grand Gedeh,1,799.97,194.04,2
+Libia,Bengasi,21,13698.61,2842.17,1
+Libia,Misurata,10,6209.46,232.38,2
+Libia,Al Marqab,2,1309.91,306.57,3
+Lituania,Vilna,17,10263.76,1718.31,1
+Lituania,Kaunas,11,5959.21,446.29,2
+Lituania,Panevezys,7,4599.41,112.21,3
+Lituania,Klaip?da,3,1774.68,449.85,4
+Lituania,iauliai,3,1354.88,19.99,5
+Luxemburgo,Luxemburgo,4,1764.72,483.13,1
+Líbano,Beirut,7,2269.75,548.04,1
+Líbano,Líbano del Norte,2,697.9,210.19,2
+Macedonia,Kumanovo,2,1149.9,242.57,1
+Macedonia,Bitola,1,399.98,54.88,2
+Madagascar,Analamanga,33,19626.69,2144.55,1
+Madagascar,Boeny,6,3114.47,705.59,2
+Madagascar,Diana,5,2309.8,-106.12,3
+Madagascar,Atsinanana,3,1519.82,259.63,4
+Madagascar,Haute-Matsiatra,2,1499.87,-25.25,5
+Malasia,Sabah,61,25669.92,2050.69,1
+Malasia,Perak,46,21473.96,3031.84,2
+Malasia,Kuala Lumpur,46,18247.83,868.54,3
+Malasia,Pahang,36,13884.93,923.94,4
+Malasia,Negeri Sembilan,30,12113.93,1634.69,5
+Mali,Bamako,26,13977.22,614.02,1
+Mali,Kayes,6,3017.62,-63.76,2
+Mali,Mopti,3,2577.78,421.79,3
+Mali,Sikasso,1,369.98,81.9,4
+Marruecos,Gran Casablanca,110,71069.75,10709.69,1
+Marruecos,Rabat-Salé-Zemur-Zaer,104,62556.26,6051.9,2
+Marruecos,Marrakech-Tensift-Al Hauz,33,19383.74,1738.15,3
+Marruecos,Fez-Bulmán,27,15475.88,2348.1,4
+Marruecos,Tánger-Tetuán,25,14330.11,1419.23,5
+Martinica,Martinica,45,24137.01,2878.02,1
+Mauritania,Nouakchott,6,4601.45,1011.28,1
+Moldavia,Chisináu,23,13022.4,1036.47,1
+Moldavia,Balti,5,2328.7,-145.28,2
+Mongolia,Ulán Bator,28,15481.74,-286.23,1
+Montenegro,Podgorica,4,2389.72,817.82,1
+Mozambique,Cidade De Maputo,25,14600.38,1924.87,1
+Mozambique,Sofala,10,8649.02,1455.82,2
+Mozambique,Maputo,12,7534.16,1912.65,3
+Mozambique,Zambezia,9,6734.13,1593.09,4
+Mozambique,Nampula,6,3469.51,556.15,5
+Myanmar (Birmania),Rangún,193,80748.77,8666.07,1
+México,Distrito Federal,792,468883.36,53266.0,1
+México,Jalisco,395,244186.95,26932.66,2
+México,Guanajuato,266,162550.11,20447.74,3
+México,México,270,160892.12,20784.2,4
+México,Chihuahua,263,149135.87,12289.84,5
+Namibia,Khomas,6,3789.6,494.45,1
+Nepal,Central,30,17733.02,1140.54,1
+Nicaragua,Managua,612,364632.95,37957.22,1
+Nicaragua,León,90,55630.15,6267.34,2
+Nicaragua,Chinandega,90,53536.48,5723.84,3
+Nicaragua,Matagalpa,65,38278.73,3071.27,4
+Nicaragua,Masaya,53,33034.79,6282.34,5
+Nigeria,Lagos,285,183586.43,22285.0,1
+Nigeria,Kano,95,55322.66,6682.77,2
+Nigeria,Oyo,51,31206.76,3701.86,3
+Nigeria,Kaduna,42,26329.35,3389.18,4
+Nigeria,Ríos,37,19699.34,2895.46,5
+Noruega,Oslo,60,33964.32,3789.48,1
+Noruega,Rogaland,29,20645.06,2758.47,2
+Noruega,Hordaland,14,9121.07,1524.67,3
+Noruega,Buskerud,9,5413.36,750.47,4
+Noruega,Vest-Agder,4,2154.84,273.97,5
+Nueva Zelanda,Auckland,191,112718.59,14294.41,1
+Nueva Zelanda,Wellington,100,58432.53,6961.69,2
+Nueva Zelanda,Canterbury,55,33611.66,3257.67,3
+Nueva Zelanda,Bay of Plenty,22,13488.13,114.16,4
+Nueva Zelanda,Waikato,24,12887.52,1012.88,5
+Níger,Niamey,22,15074.22,1964.13,1
+Níger,Maradi,7,4069.47,939.65,2
+Níger,Diffa,2,2269.81,353.77,3
+Níger,Zinder,2,2029.85,217.13,4
+Omán,Mascate,2,1374.7,256.68,1
+Pakistán,Punyab,257,106982.27,12318.49,1
+Pakistán,Sind,54,22236.2,3072.97,2
+Pakistán,Jaiber Pajtunjuá,19,10713.41,1687.73,3
+Pakistán,Territorio de la Capital Federal,23,7825.0,235.66,4
+Pakistán,Baluchistán,9,3265.8,737.83,5
+Panamá,Panamá,552,322677.63,30889.29,1
+Panamá,Chiriquí,74,45108.09,4245.91,2
+Panamá,Colón,30,18036.99,2321.41,3
+Papúa Nueva Guinea,Capital Nacional,28,11993.74,2264.21,1
+Paraguay,Central,20,13330.42,500.97,1
+Paraguay,Asunción,4,2264.67,178.35,2
+Países Bajos,Holanda Septentrional,164,100348.53,13074.89,1
+Países Bajos,Holanda Meridional,160,98961.14,9075.81,2
+Países Bajos,Brabante Septentrional,124,65029.51,5295.43,3
+Países Bajos,Utrecht,81,51037.96,4959.57,4
+Países Bajos,Güeldres,54,29031.98,5931.9,5
+Perú,Lima (ciudad),176,99120.03,10135.04,1
+Perú,Puno,9,5644.25,890.74,2
+Perú,Loreto,8,5589.35,1349.81,3
+Perú,Ica,11,5549.11,338.18,4
+Perú,Junín,12,5281.33,628.55,5
+Polonia,Silesia,64,36880.58,2897.56,1
+Polonia,Mazovia,45,27170.5,3753.32,2
+Polonia,Pomerania,25,14103.5,1885.69,3
+Polonia,Lodz,24,13589.0,1111.78,4
+Polonia,Lublin,20,11389.7,1916.13,5
+Portugal,Lisboa,73,48974.03,6642.87,1
+Portugal,Porto,33,19090.95,2560.75,2
+Portugal,Coimbra,6,5024.52,555.96,3
+Portugal,Aveiro,2,1219.8,277.9,4
+Portugal,Braga,4,1099.83,202.87,5
+Qatar,Doha,13,7724.09,1919.38,1
+Reino Unido,Inglaterra,2566,1485582.25,166693.41,1
+Reino Unido,Escocia,161,96128.0,11270.84,2
+Reino Unido,Gales,58,30384.57,2978.63,3
+República Centroafricana,Bangui,7,4829.37,656.41,1
+República Checa,Praga,44,25697.63,2029.63,1
+República Checa,Pilsen,9,3814.46,818.9,2
+República Checa,Ústí nad Labem,4,2709.55,148.76,3
+República Checa,Liberec,3,2449.61,111.03,4
+República Checa,Hradec Králové,3,1359.9,-238.88,5
+República Democrática del Congo,Kinshasa,157,96241.36,11848.89,1
+República Democrática del Congo,Katanga,62,34779.19,1796.36,2
+República Democrática del Congo,Kasai Oriental,24,14255.11,2442.61,3
+República Democrática del Congo,Provincia Oriental,21,12910.54,2082.42,4
+República Democrática del Congo,Bandundu,14,11862.54,2080.45,5
+República Dominicana,Santo Domingo,744,432351.87,51111.67,1
+República Dominicana,Santiago de Chile,147,79564.22,9549.98,2
+República Dominicana,La Romana,106,63062.91,5192.72,3
+República Dominicana,San Pedro de Macorís,74,45541.86,5842.69,4
+República Dominicana,Duarte,54,32885.92,3522.42,5
+República de Gambia,Occidental,1,1449.86,-265.83,1
+República del Congo,Niari,5,1974.72,224.3,1
+Ruanda,Kigali,28,16643.18,-323.67,1
+Ruanda,Meridional,2,2269.84,-6.35,2
+Rumania,Timis,16,9862.99,1711.69,1
+Rumania,Galati,13,9784.56,1355.49,2
+Rumania,Bra?ov,10,8061.94,902.84,3
+Rumania,Iasi,10,5829.47,1181.49,4
+Rumania,Prahova,8,5229.6,-19.39,5
+Rusia,Cheliábinsk,57,36640.83,3684.54,1
+Rusia,Bashkortostán,52,29456.17,1675.72,2
+Rusia,Daguestán,39,26357.17,2931.23,3
+Rusia,Irkutsk,26,16276.19,2975.76,4
+Rusia,Yaroslavl,21,12308.62,-981.69,5
+Senegal,Dakar,73,42349.07,3653.49,1
+Senegal,Thiès,11,6923.22,1105.91,2
+Senegal,Saint-Louis,2,1169.85,150.8,3
+Senegal,Ziguinchor,2,274.93,94.76,4
+Serbia,Serbia Central,1,120.0,42.0,1
+Sierra Leona,Meridional,8,5939.16,321.3,1
+Sierra Leona,Septentrional,2,1429.89,80.38,2
+Sierra Leona,Oriental,1,59.99,16.74,3
+Singapur,Singapur,226,93789.42,11399.47,1
+Siria,Hims,13,6389.37,930.75,1
+Siria,Dayr az Zawr,9,5419.4,1677.34,2
+Siria,Ar Raqa,1,599.97,161.59,3
+Somalia,Benadir,27,16416.17,1979.43,1
+Somalia,Gobolka Woqooyi Galbeed,13,8481.09,994.48,2
+Somalia,Jubbada Hoose,7,3604.64,765.38,3
+Sri Lanka,Occidental,11,2634.72,458.94,1
+Suazilandia,Manzini,2,1259.91,312.46,1
+SudAfrica,Gauteng,206,114923.74,15554.52,1
+SudAfrica,Cabo Occidental,75,40685.97,5300.14,2
+SudAfrica,Cabo Oriental,48,31287.61,3466.38,3
+SudAfrica,KwaZulu-Natal,28,16503.2,3089.1,4
+SudAfrica,Noroeste,13,7014.87,803.84,5
+Sudán,Jartum,44,28276.81,2494.94,1
+Sudán,Mar Rojo,16,8871.81,-126.26,2
+Sudán,Gezira,14,6716.95,928.26,3
+Sudán,Nilo Blanco,6,3909.7,541.73,4
+Sudán,Kasala,4,2414.79,370.98,5
+Sudán del Sur,Ecuatoria Central,2,879.94,222.78,1
+Suecia,Estocolmo,268,161487.25,16319.82,1
+Suecia,Västra Götaland,41,23200.89,2885.18,2
+Suecia,Escania,16,7353.48,1475.44,3
+Suecia,Upsala,14,6602.61,852.11,4
+Suecia,Halland,5,2641.63,350.39,5
+Suiza,Zúrich,57,27906.4,3210.51,1
+Suiza,Basilea-Ciudad,21,11286.32,1238.17,2
+Suiza,Berna,16,8562.52,1003.84,3
+Suiza,Vaud,14,7209.38,743.89,4
+Suiza,Ginebra,10,5839.5,379.3,5
+Surinam,Paramaribo,2,1339.84,156.8,1
+Sáhara Occidental,El Aaiún,1,599.96,-17.52,1
+Tailandia,Bangkok,393,185935.21,22552.07,1
+Tailandia,Nakhon Ratchasima,10,3578.43,183.06,2
+Taiwán,Taipéi,13,6396.33,-1374.54,1
+Tanzania,Dar es Salaam,60,34882.23,5092.14,1
+Tanzania,Mwanza,14,8323.84,1371.1,2
+Tanzania,Shinyanga,9,5459.36,1044.19,3
+Tanzania,Mbeya,9,5277.16,997.02,4
+Tanzania,Kigoma,7,4473.45,803.44,5
+Tayikistán,Khatlon,3,845.91,241.48,1
+Togo,Marítima,33,19328.95,1046.23,1
+Togo,Plateaux,2,2079.86,48.27,2
+Togo,Central,4,1924.74,431.87,3
+Togo,Kara,1,359.94,68.94,4
+Trinidad y Tobago,San Fernando,26,15261.27,2460.14,1
+Trinidad y Tobago,Chaguanas,19,13069.28,2096.41,2
+Turkmenistán,Asjabad,8,6357.13,631.42,1
+Turkmenistán,Lebap,6,3541.6,-560.42,2
+Turkmenistán,Mary,4,2209.61,554.81,3
+Turquía,Estambul,345,196116.62,23454.17,1
+Turquía,Ankara,139,79893.71,8450.66,2
+Turquía,Izmir,101,62239.76,1366.53,3
+Turquía,Adana,53,30986.86,3289.09,4
+Turquía,Bursa,49,25343.13,3500.08,5
+Túnez,Túnez,12,6258.47,945.96,1
+Ucrania,Dnipropetrovsk,49,27620.6,2968.33,1
+Ucrania,Járkov,42,21821.42,2722.15,2
+Ucrania,Lviv,34,20939.43,1414.09,3
+Ucrania,Donetsk,31,16316.88,91.54,4
+Ucrania,Vínnytsia,22,14498.69,69.14,5
+Uganda,Kampala,19,10872.74,2048.71,1
+Uganda,Jinja,6,5444.4,754.56,2
+Uganda,Gulu,5,2899.8,515.29,3
+Uganda,Kabarole,1,299.98,-264.36,4
+Uruguay,Montevideo,33,21024.65,1351.69,1
+Uruguay,Rivera,4,2633.59,328.24,2
+Uruguay,Canelones,3,2224.83,637.82,3
+Uruguay,Paysandú,2,1179.84,373.69,4
+Uzbekistán,Namangán,14,8474.33,1141.36,1
+Uzbekistán,Surjandarín,7,5647.18,299.33,2
+Uzbekistán,Andiján,6,3982.65,673.25,3
+Uzbekistán,Kashkadar,6,3713.48,864.27,4
+Uzbekistán,Jizzakh,4,1664.75,272.91,5
+Venezuela,Zulia,58,36831.7,6722.26,1
+Venezuela,Distrito Capital,59,32330.38,4771.06,2
+Venezuela,Aragua,42,25096.86,3822.76,3
+Venezuela,Bolívar,27,17449.51,-206.91,4
+Venezuela,Carabobo,26,16989.86,3347.89,5
+Vietnam,Ciudad Ho Chi Minh,232,116368.65,12473.06,1
+Vietnam,Th? Dô Hà N?i,62,29749.19,3738.51,2
+Vietnam,Dà Nang,11,8209.95,-766.36,3
+Vietnam,T?nh C?n Th?,12,5461.99,497.09,4
+Vietnam,Kiên Giang,10,3461.62,664.19,5
+Yemen,Taiz,23,11776.54,1498.63,1
+Yemen,Al Hudayda,3,889.86,90.28,2
+Yemen,Ibb,1,439.88,-102.13,3
+Yibuti,Yibuti,10,6569.37,1239.0,1
+Zambia,Copperbelt,39,27097.66,1564.69,1
+Zambia,Lusaka,34,22114.19,2974.63,2
+Zambia,Meridional,4,3569.68,-454.45,3
+Zambia,Oriental,5,1209.89,363.51,4
+Zambia,Septentrional,2,779.95,32.05,5
+Zimbabue,Harare,37,23562.38,2653.27,1
+Zimbabue,Bulawayo,25,14647.4,2101.84,2
+Zimbabue,Manicalandia,1,809.76,99.9,3
+Zimbabue,Mashonalandia Occidental,1,79.98,20.17,4

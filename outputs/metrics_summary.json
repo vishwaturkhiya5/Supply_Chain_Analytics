@@ -1,0 +1,22 @@
+{
+  "total_records": 180519,
+  "distinct_orders": 65752,
+  "distinct_customers": 20652,
+  "distinct_products": 118,
+  "total_units": 384079,
+  "gross_sales": 36784734.31,
+  "net_sales": 33054402.04,
+  "discount_amount": 3730378.4,
+  "total_profit": 3966902.97,
+  "gross_aov": 559.446622,
+  "net_aov": 502.713256,
+  "profit_margin_net": 0.12001134,
+  "late_records": 98977,
+  "late_delivery_rate_row": 0.54829132,
+  "late_orders": 36048,
+  "late_delivery_rate_order": 0.54824188,
+  "avg_actual_shipping_days_order": 3.500897,
+  "avg_scheduled_shipping_days_order": 2.934223,
+  "order_date_min": "2015-01-01T00:00:00",
+  "order_date_max": "2018-01-31T23:38:00"
+}

@@ -1,0 +1,15 @@
+check,expected,actual,status,interpretation
+Dataset rows,180519.0,180519,Pass,Line-item grain; Order Item Id is unique
+Dataset columns (raw),53.0,53,Pass,53 source columns
+Exact duplicate rows,0.0,0,Pass,No exact duplicates expected
+Unique Order Item Id,180519.0,180519,Pass,Candidate primary key
+Order date parse failures,0.0,0,Pass,Parsed as source-local timestamps
+Shipping date parse failures,0.0,0,Pass,Parsed as source-local timestamps
+Negative sales rows,0.0,0,Pass,Gross sales must be non-negative
+Negative quantity rows,0.0,0,Pass,Quantity must be non-negative
+Discount rate outside 0-1,0.0,0,Pass,Rate domain check
+Late-risk/status mismatches,0.0,0,Pass,Risk flag agrees with delivery status
+Shipping before order rows,0.0,0,Pass,Temporal integrity
+Product description missing,180519.0,180519,Documented,Entirely empty; removed from cleaned file
+Order zipcode missing,,155679,Documented,86.24% missing; removed from cleaned file
+Timestamp duration differs by 0.5 day,0.0,9737,Documented,Use supplied actual_shipping_days for KPI consistency

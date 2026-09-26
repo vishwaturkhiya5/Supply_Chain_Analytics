@@ -1,0 +1,5 @@
+shipping_mode,orders,gross_sales,profit,late_delivery_rate_pct,avg_actual_shipping_days,avg_scheduled_shipping_days,avg_variance_days
+First Class,10079,5674369.65,643121.92,95.27,2.0,1.0,1.0
+Second Class,12778,7145444.68,750308.17,76.72,4.0,2.0,2.0
+Same Day,3571,1942528.52,203018.43,46.15,0.48,0.0,0.48
+Standard Class,39324,22022391.46,2370454.45,38.13,4.0,4.0,-0.0

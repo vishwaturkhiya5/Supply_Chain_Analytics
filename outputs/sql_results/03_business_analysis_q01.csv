@@ -1,0 +1,4 @@
+customer_segment,records,orders,units,gross_sales,net_sales,profit,profit_margin_pct,late_delivery_rate_pct
+Consumer,93504,34119,199234,19095789.79,17164278.19,2073487.67,12.08,54.81
+Corporate,54789,19856,116560,11168406.63,10030649.8,1202574.96,11.99,54.72
+Home Office,32226,11777,68285,6520537.89,5859474.05,690840.34,11.79,55.07

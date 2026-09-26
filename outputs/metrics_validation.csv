@@ -1,0 +1,7 @@
+metric,resume_claim,calculated_value,definition,result
+Total records,180K+,180519.0,COUNT(*),Verified
+Distinct orders,65.7K,65752.0,COUNT(DISTINCT order_id),"Correct value is 65,752 (65.75K; 65.8K to 1 decimal)"
+Total sales,$36.78M,36784734.31,SUM(gross_sales / source Sales),Verified as gross sales; net sales are $33.05M
+Total profit,$3.97M,3966902.97,SUM(profit / source Order Profit Per Order),Verified
+Late-delivery rate,54.83%,0.54829132,SUM(late_delivery_risk) / COUNT(*),Verified at line-item row grain; order-level rate is 54.82%
+AOV,$559.46,559.446622,SUM(gross_sales) / COUNT(DISTINCT order_id),Correct two-decimal rounding is $559.45

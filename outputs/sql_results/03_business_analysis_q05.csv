@@ -1,0 +1,5 @@
+delivery_status,orders,order_share_pct,gross_sales,profit
+Late delivery,36048,54.82,20126394.88,2140051.68
+Advance shipping,15127,23.01,8518007.73,935225.28
+Shipping on time,11722,17.83,6570026.37,731143.67
+Shipping canceled,2855,4.34,1570305.33,160482.34

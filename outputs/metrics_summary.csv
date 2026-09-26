@@ -1,0 +1,2 @@
+total_records,distinct_orders,distinct_customers,distinct_products,total_units,gross_sales,net_sales,discount_amount,total_profit,gross_aov,net_aov,profit_margin_net,late_records,late_delivery_rate_row,late_orders,late_delivery_rate_order,avg_actual_shipping_days_order,avg_scheduled_shipping_days_order,order_date_min,order_date_max
+180519,65752,20652,118,384079,36784734.31,33054402.04,3730378.4,3966902.97,559.446622,502.713256,0.12001134,98977,0.54829132,36048,0.54824188,3.500897,2.934223,2015-01-01T00:00:00,2018-01-31T23:38:00
