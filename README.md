@@ -289,7 +289,6 @@ Supply_Chain_Analytics/
 │   ├── build_data_assets.py
 │   ├── run_sql_analysis.py
 │   ├── derive_insights.py
-│   └── build_excel_dashboard.mjs
 │
 └── sql/
     ├── 00_create_schema.sql
@@ -422,7 +421,3 @@ The analysis highlights delivery-performance issues, revenue concentration, loss
 ---
 
 
-
-
-
-⭐ If you find this project useful, feel free to explore the SQL scripts, analysis outputs, and Excel dashboard.
