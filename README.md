@@ -123,8 +123,4 @@ Python dependencies: `pandas` and `numpy`. SQLite is included with Python.
 
 The delivered Excel workbook can be used directly. Its build script uses `@oai/artifact-tool` in the Codex primary runtime.
 
-## Corrected Resume Wording
 
-> Analyzed 180,519 supply-chain order-item records across 65,752 orders using SQL and Excel, validating $36.78M in gross sales, $3.97M in profit, a $559.45 gross AOV, and a 54.82% distinct-order late-delivery rate.
-
-This wording uses the strongest methodologically accurate definitions. If retaining 54.83%, describe it specifically as the **late-delivery risk rate across order-item records**.
